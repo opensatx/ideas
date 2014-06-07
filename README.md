@@ -1,4 +1,4 @@
-projectideas
+project ideas
 ============
 
-Ideas for projects for the brigade to work on
+Ideas for projects for openSATX brigade to work on
