@@ -1,8 +1,8 @@
 project ideas
 ============
 
-Ideas for projects for the openSATX brigade to work on
+A place for storing and discusing new project ideas.
 
-Post new project ideas in the [Issues](https://github.com/opensatx/projectideas/issues?state=open)
+Post new ideas in the [Issues](https://github.com/opensatx/projectideas/issues?state=open)
 
 Happy hacking!
